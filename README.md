@@ -6,3 +6,8 @@ I'm software engineer and team lead at [Avito](https://tech.avito.ru).
 - 🔭 My scope of work is [here](https://miro.grsm.io/my-scope-of-work).
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kamilsk)](https://github.com/kamilsk)
+
+If you find my work useful, it will be great to send me a thank you or a coffee cup!
+
+- ☕️ [️buymeacoffee.com/kamilsk](https://www.buymeacoffee.com/kamilsk)
+- 🤗 [patreon.com/octolab](https://patreon.com/octolab)
