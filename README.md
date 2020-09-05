@@ -8,6 +8,7 @@
 
 - 🛠  In active development:
   - 📈 [grafaman, mvp](https://github.com/kamilsk/grafaman/projects/1)
+  - 🏋️‍♂️ [lift, mvp](https://github.com/kamilsk/lift/projects/1)
   - 🧰 [toolkit](https://github.com/orgs/octolab/projects/1)
 - Upcoming projects:
   - 🌉 [bridge](https://github.com/kamilsk/bridge)
